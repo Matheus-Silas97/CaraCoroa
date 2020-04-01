@@ -1,3 +1,4 @@
 # CaraCoroa
 Aplicativo Mobile Android de Cara ou Coroa
-Aplicativo criado durante curso de desenvolvimento android
+
+Aplicativo desenvolvido durante o curso: Desenvolvimento Android Completo 2020, do professor Jamilton Damasceno na Udemy.
